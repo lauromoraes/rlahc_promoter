@@ -6,13 +6,13 @@ bin-release/
 
 # Other files and folders
 .settings/
+__pycache__/
+weights/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Files
+*.csv
+*.h5
+*.log
+*.pyc
+*.ods
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
